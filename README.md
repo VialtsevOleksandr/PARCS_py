@@ -7,7 +7,6 @@
 - [Опис проекту](#description)
 - [Архітектура](#architecture)
 - [Встановлення та налаштування](#installation-and-setup)
-- [Налаштування GCP](#gcp-configuration)
 - [Використання](#usage)
 - [Результати тестування](#test-results)
 - [Аналіз продуктивності](#performance-analysis)
